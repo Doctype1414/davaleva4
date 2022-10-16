@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+header {
+    background-color: #0020F4;
+}
+.navbar-li a {
+    color:#FFFFFF;
+    font-size: 16px;
+}
+.navbar-li a.navbar-contact {
+    background-color: #FFFFFF;
+    color:#171717;
+    border-radius: 15px;
+}
+.selection-text {
+    size: 28px;
+    margin: 0 auto;
+}
+section p {
+    
+    height: 177px;
+    margin: 15px auto;
+    font-size: 16px;
+}
