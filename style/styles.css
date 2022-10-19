@@ -12,22 +12,42 @@ ul {
 header {
     background-color: #0020F4;
 }
-.navbar-li a {
-    color:#FFFFFF;
-    font-size: 16px;
+.class-navbar  li a {
+    color: white;
 }
-.navbar-li a.navbar-contact {
-    background-color: #FFFFFF;
-    color:#171717;
+.background {
+    
+    background-color: red;
     border-radius: 15px;
 }
-.selection-text {
-    size: 28px;
-    margin: 0 auto;
+.class-title {
+    display: inline-block;
+    font-size: 28px;
+    color: #171717;
 }
-section p {
+/* .image {
+    display:inline-block;
+    width: 1195px;
+    height: 600px;
+    margin: auto;
+} */
+.div-image {
+    display: inline-block;
+    padding: 50px;
+}
+.section-class p {
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    vertical-align: middle;
+    color: red;
     
-    height: 177px;
-    margin: 15px auto;
-    font-size: 16px;
+}
+.section-image  image {
+    display: inline-block;
+    width: 1195px;
+    height: 600px;
+    object-fit: cover;
+    margin: auto;
+   
 }
